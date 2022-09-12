@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41b97696-d25a-45db-aac7-398ca7d5697f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/stylesheets.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/afolou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvo.html" afterDir="false" />
-    </list>
+    <list default="true" id="41b97696-d25a-45db-aac7-398ca7d5697f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,11 +64,23 @@
       <workItem from="1662590449387" duration="6110000" />
       <workItem from="1663015608068" duration="269000" />
       <workItem from="1663015900555" duration="362000" />
-      <workItem from="1663020953191" duration="3273000" />
+      <workItem from="1663020953191" duration="3666000" />
     </task>
+    <task id="LOCAL-00001" summary="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?).">
+      <created>1663024622998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663024622998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?)." />
   </component>
 </project>
