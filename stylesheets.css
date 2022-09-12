@@ -1,0 +1,27 @@
+.navbar{
+    padding-left: 0;
+    width: 20%;
+    margin: 0;
+    border-right: pink;
+
+    position: relative;
+    display: flex;
+    flex-direction: row;;
+}
+
+.navbar ul{
+    background-color: #6D6875;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 100%;
+    overflow: hidden;
+    position: fixed;
+    border-right: 2px solid #B5838D;
+}
+
+.navbar li a{
+    border-right: 1px solid ghostwhite;
+    float: left;
+}

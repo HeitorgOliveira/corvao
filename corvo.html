@@ -3,94 +3,49 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+	<link rel="icon" href="sharingan.ico">
 	<title>Corvão</title>
 
+
 	<style>
-
 		@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
-
-		*{
-			font-family: 'EB Garamond', serif;
-			color: #ffffff;
-		}
-
-		body{
-			background-image: url("florestafundo.jpg");
-			background-color: #231e24;
-		}
-
-		.fotos{
-			margin-top: 5px;
-			letter-spacing: 0.7px;
-			border-radius: 0px;
-			box-shadow: 10px 5px 3px #3e303b;
-			background-color: #504552;
-			padding: 10px;
-			text-align: center;
-		}
-
-		.fotos img{
-
-			border-radius:  10px;
-		}
-
-
-		.titulo{
-			position: sticky;
-			border-radius:  5px;
-			background-image: linear-gradient(to bottom right, #0e0d0f, #120d17);
-			box-shadow: 10px 5px 3px #19161c;
-			margin: -8px -8px 0 -8px;
-			font-size: 38px;
-			text-align: center;
-		}
-
 	</style>
-
 </head>
+
 <body>
 
-	<div class="navbar">
-		<ul>
-			<li>Início</li>
-			<li>Aquaticos</li>
-			<li>Terrestres</li>
-			<li>Aéreos</li>
-			<li>Parasitários</li>
-		</ul>
+<nav class="navbar-dark navbar navbar-expand-lg bg-dark">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="index.html">Início</a>
+
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+				<li class="nav-item">
+					<a class="nav-link" href="#">Vida aquática</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Vida terrestre</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Vida aérea</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Vida parasitária</a>
+				</li>
+			</ul>
+			<form class="d-flex" role="search">
+				<input class="form-control me-2" type="search" placeholder="Procure um animal" aria-label="Search">
+				<button class="btn btn-outline-success" type="submit">Buscar</button>
+			</form>
+		</div>
 	</div>
+</nav>
 
-	<div class="titulo">
-		Corvão
-	</div>
-
-	<table class='fotos'>
-		<tr>
-			<th><img src="corvo.jpg" width="700" height="400"></th>
-			<th><b style="color: lightgreen;">Aqui você vai comentar brevemente sobre os corvos, não responder as perguntas dos slides
-				mas só falar um pouco sobre ele.
-			</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</th>
-		</tr>
-	</table>
-
-	<table class="fotos">
-		<th>
-			<img src="afolou.jpg" alt="">
-
-		</th>
-
-		<th>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias animi asperiores commodi dolor
-			e doloremque dolores doloribus exercitationem facere fugiat fugit laudantium libero nobis nulla odio, omni
-			s quibusdam similique vero?
-		</th>
-
-	</table>
 
 </body>
 </html>
