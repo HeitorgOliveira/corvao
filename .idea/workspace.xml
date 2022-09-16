@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41b97696-d25a-45db-aac7-398ca7d5697f" name="Changes" comment="" />
+    <list default="true" id="41b97696-d25a-45db-aac7-398ca7d5697f" name="Changes" comment="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?).">
+      <change afterPath="$PROJECT_DIR$/crow.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/corvoitachi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/desenhocorvo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/fotocorvo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/mapamundi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharingan.ico" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +45,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DPXZhJi9EFgg2Y4S8nHjWWXsKS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -64,7 +76,8 @@
       <workItem from="1662590449387" duration="6110000" />
       <workItem from="1663015608068" duration="269000" />
       <workItem from="1663015900555" duration="362000" />
-      <workItem from="1663020953191" duration="3666000" />
+      <workItem from="1663020953191" duration="3734000" />
+      <workItem from="1663282672843" duration="5558000" />
     </task>
     <task id="LOCAL-00001" summary="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?).">
       <created>1663024622998</created>
@@ -80,6 +93,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?)." />
     <option name="LAST_COMMIT_MESSAGE" value="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?)." />
   </component>
