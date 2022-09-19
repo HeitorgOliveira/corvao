@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41b97696-d25a-45db-aac7-398ca7d5697f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/imagens corvo/corvopulseira.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens corvo/olhando-pra-frente.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens corvo/ovo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens corvo/voando.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/bbbbb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/voando-de-novo1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/corvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvo.html" afterDir="false" />
     </list>
@@ -77,7 +75,9 @@
       <workItem from="1663020953191" duration="3734000" />
       <workItem from="1663282672843" duration="5916000" />
       <workItem from="1663377084307" duration="1532000" />
-      <workItem from="1663512259916" duration="4651000" />
+      <workItem from="1663512259916" duration="4719000" />
+      <workItem from="1663517156354" duration="333000" />
+      <workItem from="1663618434048" duration="3207000" />
     </task>
     <task id="LOCAL-00001" summary="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?).">
       <created>1663024622998</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663288604698</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fiz o cartão de informações de uma pergunta, agora é só seguir o processo pra cada pergunta">
+      <created>1663516984840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663516984840</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +110,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?)." />
     <MESSAGE value="Eu vou jogar Apex." />
-    <option name="LAST_COMMIT_MESSAGE" value="Eu vou jogar Apex." />
+    <MESSAGE value="Fiz o cartão de informações de uma pergunta, agora é só seguir o processo pra cada pergunta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fiz o cartão de informações de uma pergunta, agora é só seguir o processo pra cada pergunta" />
   </component>
 </project>
