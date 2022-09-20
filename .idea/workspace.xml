@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41b97696-d25a-45db-aac7-398ca7d5697f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/imagens corvo/o-corvo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens corvo/par-de-corvos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caravela.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens corvo/corvofaca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/aaaa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/bbbb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/cara.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/caravela-boiando.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/caravela-brilhando.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/cp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/na-praia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/nao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/oooo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/rosa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/sim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/sol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens-caravela/tentaculos.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corvo.html" beforeDir="false" afterPath="$PROJECT_DIR$/corvo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -78,6 +90,7 @@
       <workItem from="1663512259916" duration="4719000" />
       <workItem from="1663517156354" duration="333000" />
       <workItem from="1663618434048" duration="9031000" />
+      <workItem from="1663665983380" duration="1522000" />
     </task>
     <task id="LOCAL-00001" summary="Excluí tudo, acredito que será MIL VEZES mais facil usar o framework da Bootstrap ao invés de fazer tudo à mão (por que eu não pensei nisso antes?).">
       <created>1663024622998</created>
